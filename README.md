@@ -1,4 +1,4 @@
-# Short Eulers formula animation
+# Short Eulers formula animation with Manim
 ## Description
 The project consists of a continuos animation of a complex plane, a unit circle, a dot which coordinates are being calculated using the Eulers formula, and the formula itself with the according values. The animation ends with a famous Roger Bacon quote about mathematics.
 
